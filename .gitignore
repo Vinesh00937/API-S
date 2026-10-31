@@ -1,0 +1,6 @@
+.env
+students.db
+data.json
+login_emp.json
+__pycache__/
+.venv/
